@@ -1,2 +1,2 @@
-# florestas_invariantes_random_forest
-Artigo: Detecção de Áreas de Florestas Invariantes em Séries Temporais Utilizando Ranfom Forest
+# Detecção de Áreas de Florestas Invariantes em Séries Temporais Utilizando Random Forest
+Artigo: Detecção de Áreas de Florestas Invariantes em Séries Temporais Utilizando Random Forest
